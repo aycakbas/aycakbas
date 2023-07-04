@@ -1,7 +1,7 @@
 # 💫 About Me:
 <img align="right" src="https://camo.githubusercontent.com/b8c2b144709ca1359bc6cc8d38ec80ab47e71d84da528038a82fee2ff752773a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f5934627a7636445962597a79386a446e6f572f67697068792e676966" data-canonical-src="https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
-🔭 I am currently a graduate student and I am about to finish my master's thesis.<br>👯 I am a civil engineer, but I want to improve myself in software.<br>🤝 I am currently looking for a job.<br>🌱 I am currently a full-stack development student at Up School. I'm learning Full Stack Development. I also use related content such as Clean Architecture, CQRS, Signal R and Selenium. <br>
+🔭 As a graduate student, I am excited to transition my expertise from civil engineering to the software development field.<br>🤝 Driven by my passion for software development, I am actively pursuing job opportunities that align with my skill set.<br>🌱 In my Full Stack Development program at Up School, I am studying various topics including Clean Architecture, CQRS, Signal R, and Selenium. <br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aycakbs) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@aycakbs) 
