@@ -1,5 +1,4 @@
 # 💫 About Me:
-<img align="right" src="https://camo.githubusercontent.com/b8c2b144709ca1359bc6cc8d38ec80ab47e71d84da528038a82fee2ff752773a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f5934627a7636445962597a79386a446e6f572f67697068792e676966" data-canonical-src="https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
 🔭 Civil engineer and doctoral student, area of ​​expertise is earthquake and structural dynamics.
 
