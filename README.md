@@ -1,5 +1,7 @@
 # 💫 About Me:
 
+<img align="right" src="https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.gif" width='272'/>
+
 🔭 Civil engineer and doctoral student, area of ​​expertise is earthquake and structural dynamics.
 
 ## 🌐 Socials:
